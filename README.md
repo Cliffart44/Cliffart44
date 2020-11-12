@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gitter](https://badges.gitter.im/Cliffart44/community.svg)](https://gitter.im/Cliffart44/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 <!--
 **Cliffart44/Cliffart44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
